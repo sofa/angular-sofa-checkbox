@@ -1,0 +1,18 @@
+{
+    "name": "angular-sofa-checkbox",
+    "version": "0.1.0",
+    "homepage": "http://www.sofa.io",
+    "authors": [
+        "Pascal Precht <pascal@couchcommerce.com>"
+    ],
+    "description": "Sofa Web SDK Angular Checkbox component.",
+    "main": "dist/sofaCheckbox.js",
+    "keywords": [
+        "sofa",
+        "sofa.io",
+        "web",
+        "sdk",
+        "directive"
+    ],
+    "license": "GPL"
+}
